@@ -132,7 +132,7 @@ public:
                 int l=q.top().second;
                 q.pop();
                 if(visit[l]) continue;
-                visit[l]=false;
+                visit[l]=true;
                 for(int r:city[l])
                 {
                     Arc arc=net[l][r];

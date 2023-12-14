@@ -94,7 +94,7 @@ int main()
     net=new int*[n];
     for(int it=0;it<n;it++) net[it] = new int[n];
 
-    uniform_int_distribution<int> create_capacity(p + 1, 2 * p);
+    uniform_int_distribution<int> create_capacity(p/2, p*3/2);
     for (int i=0;i<n;i++)
         for (int j=0;j<n;j++) net[i][j] = 0;
     m=(n-1)*n/2-x*y;
