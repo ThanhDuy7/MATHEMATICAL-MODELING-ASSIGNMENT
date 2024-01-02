@@ -1,0 +1,19 @@
+﻿--------------------------Biên bản làm việc nhóm---------------------------
+1. Phân công
+| Họ và tên               | MSSV     | Lớp | Nhiệm vụ                       |
+|--------------------------|----------|-----|---------------------------------|
+| Vũ Minh Hiếu             | 2211022  | L02 | Bài 2                           |
+| Nguyễn Trịnh Ngọc Huân  | 2211144  | L02 | Tổng hợp bài làm, soạn latex    |
+| Đào Duy Thành            | 2112288  | L02 | Bài 2                           |
+| Văn Khánh Duy            | 2210543  | L02 | Bài 1                           |
+| Trần Trung Hiếu          | 2211015  | L02 | Bài 2                           |
+
+
+2. Tiến độ công việc
+12/11/2023: Tập hợp đầy đủ thành viên, thảo luận qua google meet để thảo luận đề tài và phân chia công việc, thống nhất 21h chủ nhật hàng tuần báo cáo tiến độ hoàn thành của nhiệm vụ được giao.
+19/11/2023: Bài số 2 cần kiến thức nền từ bài số 1 nên cả nhóm quyết định tập trung nghiên cứu, giải quyết bài số 1.
+26/11/2023: Cả nhóm đã mô hình và giải quyết tương đối ổn bài số 1, nhóm trưởng đã nhờ thầy Thịnh nhận xét cách làm bài số 1 và được thầy hướng dẫn cụ thể, chỉnh sửa lại một số chỗ sai. Sau khi đã họp bàn với nhóm, cả nhóm quyết định giao cho Huân và Duy hoàn thành báo cáo trình bày bài số 1, còn Minh Hiếu, Trung Hiếu và Duy Thành xử lí bài số 2.
+2/12/2023: 3 thành viên của nhóm họp mặt trực tiếp để cùng nhau bàn bạc giải quyết bài số 2. Trong quá trình giải quyết bài số 2, nhóm tương đối gặp nhiều khó khăn khi bài báo tham khảo của tác giả Li Wang có nhiều chỗ kí tự bị sai và rất ít tài liệu liên quan để nhóm tham khảo. trong quá trình thảo luận, cả nhóm đồng ý với cách giải thích bài số 2 của Trung Hiếu và rồi hẹn ngày khác để có thể bàn bạc kỹ hơn.
+4/12/2023: Báo cáo bài số 1 đã làm xong, Minh Hiếu và Duy Thành chịu trách nhiệm viết báo cáo bài số 2, Trung Hiếu chịu trách nhiệm nghiên cứu và hoàn thành báo cáo về giải thuật trong bài số 2.
+12/12/2023: Sau khi đã tổng hợp đầy đủ bài báo cáo thì Huân bắt đầu soạn và hoàn thành hoàn chỉnh bài làm bằng Latex. Nhóm trưởng Minh Hiếu cho mọi người thời gian để cùng nhau kiểm tra bài báo cáo xem có bị mắc lỗi gì không.
+15/12/2023: Nhóm trưởng Minh Hiếu tổng hợp file pdf và các file code liên quan, giải nén lại thành 1 file và nộp lên BKEL vào lúc 16h58.
